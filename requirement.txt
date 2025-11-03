@@ -1,6 +1,6 @@
-fastapi==0.111.0
-uvicorn[standard]==0.25.0
-newsapi-python==0.2.7
-requests==2.32.5
-apscheduler==3.10.6
-python-dotenv==1.0.0
+fastapi
+uvicorn
+requests
+newsapi-python
+apscheduler
+python-dotenv
